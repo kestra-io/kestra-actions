@@ -4,11 +4,13 @@
 
 This repository reference all the Kestra Actions
 
-| Link                                                                    | Description                                         |
-| ----------------------------------------------------------------------- | --------------------------------------------------- |
-| [deploy-flows-action](https://github.com/kestra-io/deploy-flows-action) | Action to deploy flows.                             |
-| [deploy-action](https://github.com/kestra-io/deploy-action)             | Action to deploy resources in a specific namespace. |
-| [validate-action](https://github.com/kestra-io/validate-action)         | Action to validate flows before deploying.          |
+| Link                                                                                                     | Description                             |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [deploy-flows-action-v2](https://github.com/kestra-io/deploy-flows-action-v2)                             | Action to deploy flows.                  |
+| [deploy-namespace-files-action](https://github.com/kestra-io/deploy-namespace-files-action)               | Action to deploy namespace files.        |
+| [validate-flows-action-v2](https://github.com/kestra-io/validate-flows-action-v2)                         | Action to validate flows before deploying. |
+
+Superseded, now-deprecated repos: [deploy-flows-action](https://github.com/kestra-io/deploy-flows-action), [deploy-action](https://github.com/kestra-io/deploy-action), [validate-action](https://github.com/kestra-io/validate-action).
 
 
 ## What is Kestra?
